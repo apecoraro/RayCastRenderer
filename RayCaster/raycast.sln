@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RayCaster", "RayCaster\RayCaster.vcxproj", "{E99C3DE7-4096-46C3-911E-6235400B6C24}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RayCastGui", "RayCastGui\RayCastGui.vcxproj", "{D44EEC6E-F96A-4E68-8E44-BC8BD13C6463}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RayCastCore", "RayCastCore\RayCastCore.vcxproj", "{FAD9A765-D9F7-4C10-BB3B-E08FC0BA1B1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeightFieldTester", "HeightFieldTester\HeightFieldTester.vcxproj", "{6B0076A8-DA6C-4D2C-AC01-B3F7E853E1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99C3DE7-4096-46C3-911E-6235400B6C24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E99C3DE7-4096-46C3-911E-6235400B6C24}.Debug|Win32.Build.0 = Debug|Win32
+		{E99C3DE7-4096-46C3-911E-6235400B6C24}.Release|Win32.ActiveCfg = Release|Win32
+		{E99C3DE7-4096-46C3-911E-6235400B6C24}.Release|Win32.Build.0 = Release|Win32
+		{D44EEC6E-F96A-4E68-8E44-BC8BD13C6463}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D44EEC6E-F96A-4E68-8E44-BC8BD13C6463}.Debug|Win32.Build.0 = Debug|Win32
+		{D44EEC6E-F96A-4E68-8E44-BC8BD13C6463}.Release|Win32.ActiveCfg = Release|Win32
+		{D44EEC6E-F96A-4E68-8E44-BC8BD13C6463}.Release|Win32.Build.0 = Release|Win32
+		{FAD9A765-D9F7-4C10-BB3B-E08FC0BA1B1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAD9A765-D9F7-4C10-BB3B-E08FC0BA1B1E}.Debug|Win32.Build.0 = Debug|Win32
+		{FAD9A765-D9F7-4C10-BB3B-E08FC0BA1B1E}.Release|Win32.ActiveCfg = Release|Win32
+		{FAD9A765-D9F7-4C10-BB3B-E08FC0BA1B1E}.Release|Win32.Build.0 = Release|Win32
+		{6B0076A8-DA6C-4D2C-AC01-B3F7E853E1E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B0076A8-DA6C-4D2C-AC01-B3F7E853E1E5}.Debug|Win32.Build.0 = Debug|Win32
+		{6B0076A8-DA6C-4D2C-AC01-B3F7E853E1E5}.Release|Win32.ActiveCfg = Release|Win32
+		{6B0076A8-DA6C-4D2C-AC01-B3F7E853E1E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
